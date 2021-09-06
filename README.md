@@ -15,4 +15,4 @@
 ![Travis CI](https://img.shields.io/badge/Travis-CI-brightgreen)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UsovAleksei&hide=stars,prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsovAleksei&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsovAleksei&layout=compact)](https://github.com/UsovAleksei/github-readme-stats)
