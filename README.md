@@ -11,6 +11,7 @@
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D5-greenn)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D5-yellow)
 ![Maven](https://img.shields.io/badge/Maven-3-red)
+![Gradle](https://img.shields.io/badge/Gradle-7-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D9-blue)
 ![Travis CI](https://img.shields.io/badge/Travis-CI-brightgreen)
 
