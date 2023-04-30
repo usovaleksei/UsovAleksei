@@ -3,7 +3,8 @@
 ### About me
 - I'am 37 year old programmer from Moscow 💻
 - I learn Java at [Job4j](https://job4j.ru/) :mortar_board:
-- My Java expirience is 1,5 year :hotsprings:
+- I worked at Forize LLC for 1.5 years as a Java developer (https://iiii-tech.com/) 
+- My Java enterprise expirience is 1,5 year :hotsprings:
 
 ### Core technologies
 
