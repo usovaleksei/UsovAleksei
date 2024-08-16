@@ -1,11 +1,11 @@
 ### Hi!👋 My name is Aleksei. Welcome!✌️
 
 ### About me
-- I'am 38 year old programmer from Moscow 💻
+- I'am 39 year old programmer from Moscow 💻
 - I learn Java at [Job4j](https://job4j.ru/) :mortar_board:
 - I worked at Forize LLC for 1.5 years as a Java developer (https://iiii-tech.com/)
 - I work at Dixie as a Java developer from July 2023 to present
-- My Java enterprise expirience is 2 year :hotsprings:
+- My Java enterprise expirience is 2,5 year :hotsprings:
 
 ### Core technologies
 
